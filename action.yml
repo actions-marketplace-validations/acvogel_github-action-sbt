@@ -1,7 +1,7 @@
 # action.yml
-name: 'SBT Action'
+name: 'SBT Action using scala-sbt'
 author: 'Loki Coyote <lokkju@gmail.com>'
-description: 'SBT build tool action'
+description: 'SBT build tool action using scala-sbt sources'
 inputs:
   commands:  # id of input
     description: 'SBT commands'
